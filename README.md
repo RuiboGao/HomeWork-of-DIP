@@ -17,8 +17,6 @@ Implement MLS based image deformation in 'run_point_transform.py'.
 
 This repository is Ruibo Gao's implementation of Assignment_01 of Image Warping. 
 
-<img src="pics/teaser.png" alt="alt text" width="800">
-
 ## Requirements
 
 To install requirements:
@@ -44,10 +42,10 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<img src="pics/global_demo.gif" alt="alt text" width="800">
+<img src="run_global_transform.gif" alt="alt text" width="800">
 
 ### Point Guided Deformation:
-<img src="pics/point_demo.gif" alt="alt text" width="800">
+<img src="run_points_transform.gif" alt="alt text" width="800">
 
 ## Acknowledgement
 
