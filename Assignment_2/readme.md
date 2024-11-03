@@ -27,3 +27,7 @@
 该模型训练结果示例
 
 <img src="./Pix2pix/result_3.png" alt="alt text" width="800">
+
+## Reference
+
+[Fully Convolutional Networks for Semantic Segmentation]("./Pix2pix/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf")
