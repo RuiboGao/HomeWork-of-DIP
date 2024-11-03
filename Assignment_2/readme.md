@@ -8,6 +8,7 @@
     python run_blending_gradio.py
 
 ## Results
+
 <img src="./Possion%20Image%20Editing/assignment2_1.png/" alt="alt text" width="800">
 
 ## Reference
