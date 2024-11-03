@@ -9,7 +9,7 @@
 
 ## Results
 
-<img src="./Possion%20Image%20Editing/assignment2_1.png/" alt="alt text" width="800">
+<img src="./Possion%20Image%20Editing/assignment2_1.png" alt="alt text" width="800">
 
 ## Reference
 [泊松图像编辑入门宝典](https://buptjz.github.io/2014/03/17/poissonImageEditing)
