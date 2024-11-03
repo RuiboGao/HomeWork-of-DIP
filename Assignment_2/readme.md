@@ -22,3 +22,8 @@
 
 ## Dataset
 数据集来自该[网站](https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)中的maps.tar.gz
+
+## Result
+该模型训练结果示例
+
+<img src="./Pix2pix/result_3.png" alt="alt text" width="800">
