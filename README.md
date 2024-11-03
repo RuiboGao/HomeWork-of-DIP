@@ -1,5 +1,13 @@
 # Homework of Digital Image Process
 
-## Assignment_1 directory contains the first homework
+## Assignment_1 contains the first assignment
 
-## Assignment_2 directory contains the second homework
+  global transform
+
+  points transform
+
+## Assignment_2 contains the second assingment
+
+  Poisson Image Editing
+
+  Pix2pix
