@@ -21,7 +21,7 @@
 ./Pix2pix/FCN_network_res18.py)
 
 ## Dataset
-数据集来自该[网站](https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)中的maps.tar.gz
+数据集来自[网站](https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)中的maps.tar.gz
 
 ## Result
 该模型训练结果示例
