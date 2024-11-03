@@ -17,6 +17,5 @@
 # 2、Pix2pix
 
 ## FCN Network 
-根据Res18 Net 网络结构模型构建全卷积网络，其结构图如下
-
-<img src="./Pix2pix/Res18_net.png" alt="alt text" width="800">
+根据Res18 Ne的网络结构模型,参考[博文](https://blog.csdn.net/qq_42102546/article/details/128607586),去除最后avgpool、FC(512,1000)层，添加四层转置卷积层，具体见[FCN_network_res18.pu](
+./Pix2pix/FCN_network_res18.py)
