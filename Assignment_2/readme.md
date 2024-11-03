@@ -30,4 +30,4 @@
 
 ## Reference
 
-[Fully Convolutional Networks for Semantic Segmentation]("/Pix2pix/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf")
+[Fully Convolutional Networks for Semantic Segmentation](./Pix2pix/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf)
