@@ -8,7 +8,7 @@
     python run_blending_gradio.py
 
 ## Results
-<img src="https://github.com/RuiboGao/HomeWork-of-DIP/blob/main/Assignment_2/Possion%20Image%20Editing/assignment2_1.gif/" alt="alt text" width="800">
+<img src="./assignment2_1.png/" alt="alt text" width="800">
 
 ## Reference
 [泊松图像编辑入门宝典](https://buptjz.github.io/2014/03/17/poissonImageEditing)
